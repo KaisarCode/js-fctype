@@ -1,6 +1,6 @@
 {
   "name": "kc-fctype",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "[js] Return content type based on file name.",
   "main": "index.js",
   "repository": {
