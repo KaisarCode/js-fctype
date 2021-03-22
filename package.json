@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/KaisarCode/js-fctype.git"
+    "url": "https://github.com/kaisarsnippets/js-fctype.git"
   },
   "keywords": [
     "content-type"
@@ -13,9 +13,9 @@
   "author": "KaisarCode",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/KaisarCode/js-fctype/issues"
+    "url": "https://github.com/kaisarsnippets/js-fctype/issues"
   },
-  "homepage": "https://github.com/KaisarCode/js-fctype",
+  "homepage": "https://github.com/kaisarsnippets/js-fctype",
   "dependencies": {
     "fun2mod": "^1.0.5"
   }
